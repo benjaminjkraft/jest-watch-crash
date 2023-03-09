@@ -1,0 +1,7 @@
+{
+  "name": "jest-watch-crash",
+  "version": "0.0.0",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
